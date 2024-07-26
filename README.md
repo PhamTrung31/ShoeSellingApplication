@@ -1,7 +1,7 @@
 # ShoeSellingApplication
 
 ### Overview
-This is a small project simulating a shoe e-commerce website. The project focuses on customer interactions with the app and simulates basic admin tasks.
+A simple buying and selling project simulating interactions between buyers and the system, and how the admin interacts with the web.
 
 ### Features
 - User authentication and authorization (Google, Facebook)
@@ -17,8 +17,10 @@ This is a small project simulating a shoe e-commerce website. The project focuse
 - JPS
 - Microsoft SQL Server
 - Google Authentication API
-
+- MVC2
+- Bootstrap 5
 ### Prerequisites
 - Java 8
 - Tomcat 8
 - Microsoft SQL Server
+- Bootstrap 5
